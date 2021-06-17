@@ -5,4 +5,4 @@ Sincronizacion 1
 Modificacion 1
 >>>>>>> 2a400371bd63ab8abfcb144bb7f674edfbfbb28f
 Hola chava como quiera no hechizas 
-Moficiacion de jorge
+Modificacion de jorge
