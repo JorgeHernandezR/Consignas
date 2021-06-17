@@ -1,1 +1,2 @@
-Hola 
+Hola, estas lineas son las de chava
+Sincronizacion 1
